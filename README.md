@@ -2,7 +2,7 @@
 
 Jiangshan Cui
 
-##Pros and Cons of Test Driven Developement (TDD)
+## Pros and Cons of Test Driven Developement (TDD)
 ### TDD Pros: 
 1. Less bugs: 
 	Since all the scenarios of the requirement are included and implemented as tests before the development, the test cases become the blueprint of the implementation of the requirement. The developer would not easily forget some of the scenarios. Thus, the biggest advantages of Test Driven Development is to ensure the integrity and performance of the project, reducing the future expense on bug fixes. Furthermore, if the tests were approved by the team before development, there could be less missing corner cases. 
